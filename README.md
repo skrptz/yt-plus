@@ -1,5 +1,5 @@
-# YouTube Vanced+ [WIP]
-Another YouTube Vanced Unofficial project named YouTube Vanced+ [WIP] maintained by [Cuynu](https://github.com/cuynu)
+# Youtube+ [In Development]
+A unofficial version of youtube made by skrptz
 
 <a href="https://github.com/cuynu/ytvancedx#download">
 <img alt="YouTube Vanced+ logo" src="https://github.com/cuynu/archive/releases/download/archive/vancedx_banner.jpeg" width="270" height="150" />
