@@ -2,22 +2,12 @@
 A unofficial version of youtube made by skrptz
 
 <a href="https://github.com/cuynu/ytvancedx#download">
-<img alt="YouTube Vanced+ logo" src="https://github.com/cuynu/archive/releases/download/archive/vancedx_banner.jpeg" width="270" height="150" />
+<img alt="YouTube+ logo" src="https://st2.depositphotos.com/3867453/8252/v/450/depositphotos_82524720-stock-illustration-cross-plus-medical-logo-icon.jpg" width="150" height="150" />
 </a>
 
 </p>
 
-<p align="left">
-    <a href="https://github.com/cuynu/ytvancedx"><img src="https://img.shields.io/github/downloads/cuynu/archive/archive/total?label=View counts&logoColor=%23fff&style=for-the-badge" alt="Badage"></img></a>
-    <a href="https://github.com/cuynu/ytvancedx/releases/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/cuynu/ytvancedx?color=brightgreen&label=Latest%20release&logo=android&logoColor=%23fff&style=for-the-badge" alt="Badge"></img></a>
-    <p>
-    <a href="https://github.com/cuynu/ytvancedx#download"><img src="https://img.shields.io/github/downloads/cuynu/ytvancedx/total?label=Download%20counts&logo=android&logoColor=%23fff&style=for-the-badge" alt="Badge"></img></a>
-    <a href="https://github.com/cuynu/ytvancedx/issues"><img src="https://custom-icon-badges.demolab.com/github/issues-raw/cuynu/ytvancedx?logo=issue-opened&label=Issues&logoColor=%23fff&style=for-the-badge" alt="Badge"></img></a>
 
-<p align="left">
-   <img src="https://img.shields.io/github/stars/cuynu/ytvancedx?style=social" alt="Badge"/>
-   <img src="https://img.shields.io/github/forks/cuynu/ytvancedx?style=social" alt="Badge"/>
-</p>
 
 ## Table of Contents (Quick navigation) 
 
@@ -35,8 +25,7 @@ A unofficial version of youtube made by skrptz
 This project was created after discontinuation of Vanced official aswell wars between Unofficial Vanced and ReVanced Extended. Its not `YouTube Vanced` and just is the CLONE of `YouTube Vanced`. The project are in development and will going release soon as possible!
 
 # Features 
-- Same as Official `YouTube Vanced`
-- YouTube Vanced+ blocks ads from YouTube and uses SponsorBlock to skip in-video sponsor segments
+- YouTube+ blocks ads from YouTube and uses SponsorBlock to skip in-video sponsor segments
 - The picture-in-picture mode allows watching videos in a floating window
 - Background play allows playing video sound in background
 - Forced VP9 codec
